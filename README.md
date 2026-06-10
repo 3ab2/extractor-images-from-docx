@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/3ab2/D-GITALCODE-Document-Media-Extractor-Pro/main/resources/icons/logo.png" alt="D-GITALCODE logo" width="120"/>
+<img src="https://cdn.jsdelivr.net/gh/3ab2/D-GITALCODE-Document-Media-Extractor-Pro@main/resources/icons/logo.png" alt="D-GITALCODE logo" width="120"/>
 
 # D-GITALCODE Document Media Extractor Pro
 
@@ -51,11 +51,11 @@ Extracted image formats: **PNG · JPG · GIF · BMP · TIFF · WEBP · EMF · WM
 
 | Dashboard | Extraction View |
 | :-------: | :-------------: |
-| ![Dashboard](https://raw.githubusercontent.com/3ab2/D-GITALCODE-Document-Media-Extractor-Pro/main/docs/screenshots/dashboard.png) | ![Extraction](https://raw.githubusercontent.com/3ab2/D-GITALCODE-Document-Media-Extractor-Pro/main/docs/screenshots/extraction.png) |
+| ![Dashboard](https://cdn.jsdelivr.net/gh/3ab2/D-GITALCODE-Document-Media-Extractor-Pro@main/docs/screenshots/dashboard.png) | ![Extraction](https://cdn.jsdelivr.net/gh/3ab2/D-GITALCODE-Document-Media-Extractor-Pro@main/docs/screenshots/extraction.png) |
 
 | Reports & Gallery | Settings |
 | :---------------: | :------: |
-| ![Reports](https://raw.githubusercontent.com/3ab2/D-GITALCODE-Document-Media-Extractor-Pro/main/docs/screenshots/reports.png) | ![Settings](https://raw.githubusercontent.com/3ab2/D-GITALCODE-Document-Media-Extractor-Pro/main/docs/screenshots/settings.png) |
+| ![Reports](https://cdn.jsdelivr.net/gh/3ab2/D-GITALCODE-Document-Media-Extractor-Pro@main/docs/screenshots/reports.png) | ![Settings](https://cdn.jsdelivr.net/gh/3ab2/D-GITALCODE-Document-Media-Extractor-Pro@main/docs/screenshots/settings.png) |
 
 ## 🏛 Architecture
 
