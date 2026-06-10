@@ -74,6 +74,6 @@ and fully refactored into a professional layered architecture.
 
 **D-GITALCODE © 2026 — Developed by ELKARCH ABDELHAMID**
 
-[Repository](https://github.com/3ab2/extractor-images-from-docx) · [Issues](https://github.com/3ab2/extractor-images-from-docx/issues)
+[Repository](https://github.com/3ab2/D-GITALCODE-Document-Media-Extractor-Pro) · [Issues](https://github.com/3ab2/D-GITALCODE-Document-Media-Extractor-Pro/issues)
 
 </div>

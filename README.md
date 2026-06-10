@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="resources/icons/logo.png" alt="D-GITALCODE logo" width="120"/>
+<img src="https://raw.githubusercontent.com/3ab2/D-GITALCODE-Document-Media-Extractor-Pro/main/resources/icons/logo.png" alt="D-GITALCODE logo" width="120"/>
 
 # D-GITALCODE Document Media Extractor Pro
 
@@ -51,18 +51,18 @@ Extracted image formats: **PNG · JPG · GIF · BMP · TIFF · WEBP · EMF · WM
 
 | Dashboard | Extraction View |
 | :-------: | :-------------: |
-| ![Dashboard](docs/screenshots/dashboard.png) | ![Extraction](docs/screenshots/extraction.png) |
+| ![Dashboard](https://raw.githubusercontent.com/3ab2/D-GITALCODE-Document-Media-Extractor-Pro/main/docs/screenshots/dashboard.png) | ![Extraction](https://raw.githubusercontent.com/3ab2/D-GITALCODE-Document-Media-Extractor-Pro/main/docs/screenshots/extraction.png) |
 
 | Reports & Gallery | Settings |
 | :---------------: | :------: |
-| ![Reports](docs/screenshots/reports.png) | ![Settings](docs/screenshots/settings.png) |
+| ![Reports](https://raw.githubusercontent.com/3ab2/D-GITALCODE-Document-Media-Extractor-Pro/main/docs/screenshots/reports.png) | ![Settings](https://raw.githubusercontent.com/3ab2/D-GITALCODE-Document-Media-Extractor-Pro/main/docs/screenshots/settings.png) |
 
 ## 🏛 Architecture
 
 The project follows a strict layered architecture with full separation of concerns:
 
 ```text
-extractor-images-from-docx/
+D-GITALCODE-Document-Media-Extractor-Pro/
 ├── main.py                  # Entry point
 ├── config.py                # Metadata, paths, formats, translations
 ├── gui/                     # ── GUI LAYER ──
@@ -100,8 +100,8 @@ extractor-images-from-docx/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/3ab2/extractor-images-from-docx.git
-cd extractor-images-from-docx
+git clone https://github.com/3ab2/D-GITALCODE-Document-Media-Extractor-Pro.git
+cd D-GITALCODE-Document-Media-Extractor-Pro
 
 # 2. Create a virtual environment
 python -m venv venv
@@ -192,7 +192,7 @@ Contributions are welcome!
 5. **Commit** — use conventional commits (`feat:`, `fix:`, `docs:`…)
 6. **Open a Pull Request** with a clear description
 
-Found a bug? [Open an issue](https://github.com/3ab2/extractor-images-from-docx/issues) with steps to reproduce.
+Found a bug? [Open an issue](https://github.com/3ab2/D-GITALCODE-Document-Media-Extractor-Pro/issues) with steps to reproduce.
 
 ## 📜 License
 
@@ -206,7 +206,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 Brand: **D-GITALCODE**
 
-[![GitHub](https://img.shields.io/badge/GitHub-3ab2%2Fextractor--images--from--docx-181717?style=flat-square&logo=github)](https://github.com/3ab2/extractor-images-from-docx)
+[![GitHub](https://img.shields.io/badge/GitHub-D--GITALCODE--Document--Media--Extractor--Pro-181717?style=flat-square&logo=github)](https://github.com/3ab2/D-GITALCODE-Document-Media-Extractor-Pro)
 
 *D-GITALCODE © 2026 — Professional Document Media Extraction*
 

@@ -5,7 +5,7 @@
 Author: **ELKARCH ABDELHAMID** | Brand: **D-GITALCODE**
 
 ```
-extractor-images-from-docx/
+D-GITALCODE-Document-Media-Extractor-Pro/
 │
 ├── main.py                      # Entry point: init config, logging, launch GUI
 ├── config.py                    # Metadata, paths, formats, Translator
