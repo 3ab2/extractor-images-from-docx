@@ -269,9 +269,9 @@ For commercial licensing or custom deployments, contact **D-GITALCODE**.
 
 Senior Developer & Founder of D-GITALCODE
 
-- 🌐 [D-GITALCODE Official](https://d-gitalcode.com)
-- 📧 Email: contact@d-gitalcode.com
-- 💼 LinkedIn: [D-GITALCODE](https://linkedin.com/company/d-gitalcode)
+- 🌐 [D-GITALCODE Official](https://d-gitalcodema.vercel.app/fr)
+- 📧 Email: 3ab2uelkarch2006@gmail.com
+- 💼 LinkedIn: [D-GITALCODE](https://www.linkedin.com/in/d-gitalcode-elkarch-abdelhamid-0604583bb?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
 ---
 
@@ -281,7 +281,7 @@ For issues, feature requests, or support:
 
 - 📋 **GitHub Issues**: [Report an Issue](https://github.com/3ab2/extractor-images-from-docx/issues)
 - 💬 **Discussions**: [Join our Community](https://github.com/3ab2/extractor-images-from-docx/discussions)
-- 📧 **Direct Support**: contact@d-gitalcode.com
+- 📧 **Direct Support**: 3ab2uelkarch2006@gmail.com
 
 ---
 
